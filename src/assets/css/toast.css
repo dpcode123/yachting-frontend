@@ -1,0 +1,9 @@
+.mosha__toast{
+  margin-top: 92px;
+}
+.mosha__toast.success {
+  background-color: #028d3c;
+}
+.mosha__toast.danger {
+  background-color: #f33646;
+}
